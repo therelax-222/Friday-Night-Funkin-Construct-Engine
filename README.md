@@ -1,2 +1,2 @@
 # Friday-Night-Funkin-Construct-Engine
-Remake of original FNF and mod support version
+Remake of the original FNF and a modded version
